@@ -1,14 +1,39 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=About%20Dhruv)
+<div align="center">
+  <!-- Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=About%20Dhruv" alt="Header" />
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=dhruv-programmes&show_icons=true&theme=codeSTACKr&line_height=24&hide=stars&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-programmes&layout=compact&theme=codeSTACKr&hide_border=true" />
-</a>
+<div align="center">
+  <!-- GitHub Stats & Top Languages arranged in a table -->
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=dhruv-programmes&show_icons=true&theme=codeSTACKr&line_height=27&hide_border=true" alt="Dhruv's GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-programmes&layout=compact&theme=codeSTACKr&hide_border=true" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dhruv-programmes&theme=onedark&margin-w=13&margin-h=15&column=7&no-frame=true)
+<div align="center" style="margin-top: 20px;">
+  <!-- Trophy Section -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruv-programmes&theme=onedark&no-frame=true" alt="GitHub Trophies" />
+</div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center" style="margin-top: 20px;">
+  <!-- Readme Quote -->
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  </a>
+</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=100&section=footer)
+<div align="center" style="margin-top: 20px;">
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=100&section=footer" alt="Footer" />
+</div>
