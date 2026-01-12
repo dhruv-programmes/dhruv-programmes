@@ -23,7 +23,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <!-- Trophy Section -->
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv-programmes&theme=onedark&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=dhruv-programmes&theme=onedark&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
