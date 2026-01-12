@@ -9,12 +9,12 @@
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=dhruv-programmes&show_icons=true&theme=codeSTACKr&line_height=27&hide_border=true" alt="Dhruv's GitHub Stats" />
+          <img src="https://dhrv-stats.vercel.app/api?username=dhruv-programmes&show_icons=true&theme=codeSTACKr&line_height=27&hide_border=true" alt="Dhruv's GitHub Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-programmes&layout=compact&theme=codeSTACKr&hide_border=true" alt="Top Languages" />
+          <img src="https://dhrv-stats.vercel.app/api/top-langs/?username=dhruv-programmes&layout=compact&theme=codeSTACKr&hide_border=true" alt="Top Languages" />
         </a>
       </td>
     </tr>
