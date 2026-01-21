@@ -21,16 +21,25 @@
   </table>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<!-- <div align="center" style="margin-top: 20px;"> -->
   <!-- Trophy Section -->
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=dhruv-programmes&theme=onedark&no-frame=true" alt="GitHub Trophies" />
-</div>
+  <!-- <img src="https://github-profile-trophy-fork-two.vercel.app/?username=dhruv-programmes&theme=onedark&no-frame=true" alt="GitHub Trophies" /> -->
+<!-- </div> -->
 
 <div align="center" style="margin-top: 20px;">
   <!-- Readme Quote -->
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <!-- <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-  </a>
+  </a> -->
+  <picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/dhruv-programmes/dhruv-programmes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/dhruv-programmes/dhruv-programmes/output/github-snake.svg" />
+  <img alt="github-snake"
+       src="https://raw.githubusercontent.com/dhruv-programmes/dhruv-programmes/output/github-snake.svg" />
+</picture>
+
 </div>
 
 <div align="center" style="margin-top: 20px;">
